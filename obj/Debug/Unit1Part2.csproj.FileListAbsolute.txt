@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Unit1Part2\Unit1Part2\bin\Debug\Unit1Part2.exe.config
+C:\Users\admin\source\repos\Unit1Part2\Unit1Part2\bin\Debug\Unit1Part2.exe
+C:\Users\admin\source\repos\Unit1Part2\Unit1Part2\bin\Debug\Unit1Part2.pdb
+C:\Users\admin\source\repos\Unit1Part2\Unit1Part2\obj\Debug\Unit1Part2.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Unit1Part2\Unit1Part2\obj\Debug\Unit1Part2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Unit1Part2\Unit1Part2\obj\Debug\Unit1Part2.exe
+C:\Users\admin\source\repos\Unit1Part2\Unit1Part2\obj\Debug\Unit1Part2.pdb
